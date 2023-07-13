@@ -1,13 +1,13 @@
-package com.marius.outEnd;
+package com.marius.apiout;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OutEndApplicationTests {
+class ApiOutApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
